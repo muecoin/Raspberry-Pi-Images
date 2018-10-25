@@ -1,7 +1,7 @@
 # Raspberry-Pi-Images
 MUE builds of Raspbian with the Monetaryunit wallet installed
 
-The Monetaryunit team have made it ewasy to use the Monetaryunit wallet on your Raspberry Pi, by making a prebuilt image for your convenience. 
+The Monetaryunit team have made it easy to use the Monetaryunit wallet on your Raspberry Pi, by making a prebuilt image for your convenience. 
 
 The images are based off Raspbian October release of 2018-10: 
 
