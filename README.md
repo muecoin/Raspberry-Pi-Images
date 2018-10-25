@@ -17,8 +17,8 @@ Running the Raspberry Pi, the user can use the wallet as a dedicated staking box
 
 Here are the links to the Raspberry Pi images:
 
-https://mueberry.com/raspberrypi_mue202.zip (3.8 GB)
-https://mueberry.com/raspberrypi_mue202.tar.gz (3.8 GB) 
+* https://mueberry.com/raspberrypi_mue202.zip (3.8 GB)
+* https://mueberry.com/raspberrypi_mue202.tar.gz (3.8 GB) 
 
 
 Howto install the image files on yoru raspoberry pi using ETCHER:
