@@ -15,7 +15,8 @@ Running the Raspberry Pi, the user can use the wallet as a dedicated staking box
 
 Here are the links to the Raspberry Pi images:
 
-* https://mueberry.com/mueberry-pi-2018-12-26.zip (1 GB) <--- Latest release
+* https://mueberry.com/mueberry-pi-2019-02-27.zip (1 GB) <--- Latest release 
+* https://mueberry.com/mueberry-pi-2018-12-26.zip (1 GB)
 *
 * https://mueberry.com/raspberrypi_mue202.zip (3.8 GB) <--- Old version, for referfence only
 
