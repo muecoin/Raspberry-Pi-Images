@@ -3,11 +3,10 @@ MUE builds of Raspbian with the Monetaryunit wallet installed
 
 The Monetaryunit team have made it easy to use the Monetaryunit wallet on your Raspberry Pi, by making a prebuilt image for your convenience. 
 
-The images are based off Raspbian October release of 2018-11: 
-
-    Version:November 2018
-    Release date:2018-11-13
-    Kernel version:4.14
+The images are based off Raspbian April release of 2019-04: 
+    Version:        April 2019
+    Release date:   2019-04-08
+    Kernel version: 4.14
 
 and have the **Monetaryunit 2.1.3 wallet** installed but not configured. The user will need to log in to the raspberry pi with login: `pi` and password: `raspberry` and do any configuring to the pi desktop system and the Monetaryunit wallet before using the wallet.
 
