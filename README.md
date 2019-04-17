@@ -19,7 +19,7 @@ Here are the links to the Raspberry Pi images:
 * https://mueberry.com/mueberry-pi-2019-02-27.zip (1 GB)
 * https://mueberry.com/mueberry-pi-2018-12-26.zip (1 GB)
 *
-* https://mueberry.com/raspberrypi_mue202.zip (3.8 GB) <--- Old version, for referfence only
+* https://mueberry.com/raspberrypi_mue202.zip (3.8 GB) <--- Old version, for reference only
 
 
 Howto install the image files on your Raspberry Pi using ETCHER:
